@@ -1,0 +1,9 @@
+.idea/
+venv
+/.idea/
+.git
+testing
+in
+dist/*
+build/
+ML_Formatter.egg-info/*
